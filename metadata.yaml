@@ -1,0 +1,40 @@
+_repo: The-Original-Fables-of-La-FontaineRendered-into-English-Prose-by-Fredk.-Colin-Tilney_15946
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tilney, F. C. (Frederick Colin)
+    alias: Tilney, Frederick Colin
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '9901'
+    url: http://www.gutenberg.org/2009/agents/9901
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - Fontaine, Jean de La
+    - De La Fontaine, Jean
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_issued: '2005-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fables, French -- Translations into English'
+title: 'The Original Fables of La Fontaine
+
+  Rendered into English Prose by Fredk. Colin Tilney'
+url: http://www.gutenberg.org/ebooks/15946
